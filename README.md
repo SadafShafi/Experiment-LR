@@ -1,3 +1,8 @@
+This is the Source Code for my Researh paper called EXPLORING THE RELATIONSHIP BETWEEN LEARNING RATE, BATCH SIZE AND EPOCHS IN DEEP LEARNING. 
+AN EXPERIMENTAL STUDY
+
+
+
 A series of Experiments to find the effects of changing learning rate and batch size (during training) on generalization by the neural networks
 
 
